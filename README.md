@@ -1,1 +1,3 @@
-# codigocypress
+# Testes automatizados com Cypress - Básico
+
+
